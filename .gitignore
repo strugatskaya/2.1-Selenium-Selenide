@@ -3,6 +3,7 @@ Thumbs.db*
 HELP.md
 .gradle
 build/
+driver/
 
 ### STS ###
 .apt_generated
@@ -28,7 +29,7 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
-gradle/
+.gradle/
 
 ### VS Code ###
 .vscode/

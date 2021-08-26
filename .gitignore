@@ -19,8 +19,8 @@ build/
 *.iml
 *.ipr
 out/
-/.idea
-/.gradle
+.idea/
+
 
 ### NetBeans ###
 /nbproject/private/
@@ -28,7 +28,7 @@ out/
 /dist/
 /nbdist/
 /.nb-gradle/
-
+gradle/
 
 ### VS Code ###
 .vscode/
